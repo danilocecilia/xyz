@@ -1,0 +1,15 @@
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.csprojResolveAssemblyReference.cache
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.csprojResolveAssemblyReference.cache
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\bin\Debug\tms.XYZ.Essentials.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.csprojResolveAssemblyReference.cache
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Essentials\obj\Debug\tms.XYZ.Essentials.pdb

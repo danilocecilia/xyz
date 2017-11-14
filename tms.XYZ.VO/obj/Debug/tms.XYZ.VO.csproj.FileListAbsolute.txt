@@ -1,0 +1,21 @@
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.csprojResolveAssemblyReference.cache
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.csprojResolveAssemblyReference.cache
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.XYZ.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\bin\Debug\tms.Base.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.csprojResolveAssemblyReference.cache
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.VO\obj\Debug\tms.XYZ.VO.pdb

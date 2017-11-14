@@ -1,0 +1,48 @@
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.BO.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.BO.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.Essentials.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.VO.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.BO.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.Essentials.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.VO.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\AWSSDK.Core.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\EPPlus.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.Essentials.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.VO.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.BO.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.Essentials.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.VO.pdb
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\bin\Debug\EPPlus.xml
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.csprojResolveAssemblyReference.cache
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.dll
+C:\Projects\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.BO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.BO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.Essentials.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.Essentials.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\AWSSDK.Core.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\AWSSDK.SimpleNotificationService.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\EPPlus.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.Essentials.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Base.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.BO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.Essentials.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\tms.Learn.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\bin\Debug\EPPlus.xml
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.csprojResolveAssemblyReference.cache
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.Base\tms.Base\tms.Base.BO\obj\Debug\tms.Base.BO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.BO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.BO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.Essentials.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.Essentials.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\bin\Debug\tms.Base.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\obj\Debug\tms.Base.BO.csprojResolveAssemblyReference.cache
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\obj\Debug\tms.Base.BO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.Base.BO\obj\Debug\tms.Base.BO.pdb

@@ -1,0 +1,50 @@
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe.config
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.dll
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.pdb
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.csprojResolveAssemblyReference.cache
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.exe
+C:\Projects\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe.config
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.exe
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.dll
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.pdb
+C:\Users\dcecilia\Downloads\Projeto Base\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.csprojResolveAssemblyReference.cache
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe.config
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.exe
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Console.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Essentials.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.dll
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.BO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.Essentials.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.Base.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.BO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.Essentials.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\bin\Debug\tms.XYZ.VO.pdb
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.csprojResolveAssemblyReference.cache
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.exe
+D:\Danilo\Projetos\tms.XYZ\tms.XYZ\tms.XYZ.Console\obj\Debug\tms.XYZ.Console.pdb
